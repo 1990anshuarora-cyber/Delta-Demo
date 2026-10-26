@@ -1,2 +1,2 @@
 # Delta-Demo
-its an demo git clss
+its an demo git clss.
